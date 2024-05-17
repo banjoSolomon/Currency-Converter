@@ -1,10 +1,10 @@
-body{
+ body{
     font-family: Arial;
     background-color: #f4f4f9;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 30vh;
+    height: 60vh;
     margin: 0;
 
 }
